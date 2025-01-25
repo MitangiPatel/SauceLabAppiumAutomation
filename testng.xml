@@ -7,10 +7,7 @@
 
   <test thread-count="5" name="Error Validation Test">
     <classes>
-      <class name="appiumautomation.loginPage"/>
-      <class name="appiumautomation.productPage"/>
-      <class name="appiumautomation.endToEndTest"/>
-      <class name="appiumautomation.webView"/>
+      <class name="appiumautomation.loginTestcase"/>
     </classes>
   </test> <!-- Test -->
   
